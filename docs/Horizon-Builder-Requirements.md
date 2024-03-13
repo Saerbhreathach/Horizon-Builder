@@ -14,9 +14,9 @@ Horizon will be the exception, achieving where previously we have not been able 
 ## Project Team
 
 Add yourselves here:
-* Owner - GustavoSchip
-* TEAM TITLE - NAME
-* TEAM TITLE - NAME
+* Owner/Developer - GustavoSchip
+* Developer - Konard
+* Analysis/Support - Saerbhreathach
 * TEAM TITLE - NAME
 
 ## Project Scope
@@ -108,6 +108,7 @@ Add yourselves here:
 * ability to set requirements for a feature, trait, feat, skill, item etc eg. class-restricted items (Koda)
 * ability to track current HP in the app (Stacy Skye)
 * ability to use RTF (or similar) within the character sheet PDF output. (stacy Skye)
+* improved flexibility in selector functionality (Saer)
 
 ### Awaiting further discussion with Dev team
 
